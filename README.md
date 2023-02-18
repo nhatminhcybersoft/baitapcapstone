@@ -1,7 +1,5 @@
-﻿# BÀI TẬP NHÓM JS
-- Nhóm: **Trần Nhật Minh**
-- Lớp 36 - Bootcamp - Quận 10 - Chiều T7 CN - Cybersoft Academy
-- Deadline 06/12/2022
+﻿# JS
+- **Trần Nhật Minh**
 - Phần 1: Website bán hàng
 - Phần 2: Quản lý sản phẩm
 ## Bảng phân công công việc
