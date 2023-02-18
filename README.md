@@ -30,7 +30,7 @@
 - Xem site dự án: 
     1. Phần 1: https://capstonep1.vercel.app/
     2. Phần 2: https://capstonep2.vercel.app/
-- Requirements: https://apicrm.cybersoft.edu.vn/files/11-[capstone]-js.pdf
+
 
 ## To submit:
 ✅ Code<br>
